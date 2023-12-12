@@ -1,6 +1,6 @@
 {
-    "name": "ranson_app",
-    "short_name": "ranson_app",
+    "name": "app_substitutiva",
+    "short_name": "app_substitutiva",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
